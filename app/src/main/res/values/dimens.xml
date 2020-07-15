@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_size">14sp</dimen>
+    <dimen name="elevation">5dp</dimen>
+    <dimen name="corner_radius">17dp</dimen>
+    <dimen name="height_button">50dp</dimen>
+</resources>

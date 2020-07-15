@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PruebApp</string>
+    <string name="Welcome">Bienvenidos</string>
+    <string name="upload">Subir foto</string>
+    <string name="fail_upload">No se pudo subir el archivo</string>
+    <string name="success_upload">Archivo cargado correctamente</string>
+    <string name="you_can_share_too">Sube tu foto a un servicio REST</string>
+</resources>
